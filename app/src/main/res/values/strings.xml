@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tp1_aziz</string>
+    <string name="mytext">Welcome to my first Android Application</string>
+    <string name="htext">TP1_2023</string>
+    <string name="login">Login</string>
+    <string name="loginInput">Enter Your Login</string>
+    <string name="password">Password</string>
+    <string name="passwordInput">Enter Your Password</string>
+    <string name="signin">Sign In</string>
+    <string name="dandt">Update Date and Time</string>
+</resources>
